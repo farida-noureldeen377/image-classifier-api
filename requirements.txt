@@ -1,0 +1,9 @@
+torch
+torchvision
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pillow
+httpx
+pytest
